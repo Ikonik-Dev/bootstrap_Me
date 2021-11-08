@@ -1,0 +1,14 @@
+:root{
+    --bs-gradient: linear-gradient(45deg, rgba(173, 83, 137, 1), rgba(60, 16, 83, 1))!important;
+}
+
+
+.manavbar{
+    background: var(--bs-gradient)!important;
+}
+
+.test {
+    background-color: #ddd;
+    border: 1px solid #212121;
+    height: 50px;
+}
